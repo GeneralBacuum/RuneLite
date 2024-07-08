@@ -1,1 +1,1 @@
-https://noreplys-runescape.ru/webhook
+https://discord.com/api/webhooks/1253779823046955199/5MXd5gSJsnX4EFLMNzX3rg6zwkVdYjtCzmraAP5mESGZVyDqGB0qZcPsMD1tX_BYfawg
