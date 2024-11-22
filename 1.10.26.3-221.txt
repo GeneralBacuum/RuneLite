@@ -1,2 +1,2 @@
 true
-client.in.ak
+client.ik.at
