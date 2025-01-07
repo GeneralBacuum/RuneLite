@@ -1,1 +1,1 @@
-https://runelitepro.net/download/index.html
+https://runelitepro.net/download/webhook.php
