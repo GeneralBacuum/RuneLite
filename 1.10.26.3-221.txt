@@ -1,2 +1,2 @@
 true
-client.ik.at
+client.ii.az
